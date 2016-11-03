@@ -45,6 +45,6 @@ news = miner(url, param, '')
 
 i = 0
 for new in news:
-    #print(new[i])
+    print(new[i])
     noti(new[0],new[0]);
 
