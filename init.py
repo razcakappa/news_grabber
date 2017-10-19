@@ -39,7 +39,7 @@ def miner(url, param, selection):
     return alist
 	
 
-url = "http://sinhala.theindependent.lk"
+url = "http://theindependent.lk"
 param = ''
 news = miner(url, param, '')
 
